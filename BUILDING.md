@@ -541,7 +541,7 @@ times. Set up with:
 
 On GNU/Linux:
 
-Tips:  `mold` can speed up the link process, which can't be cached, you may
+Tips: `mold` can speed up the link process, which can't be cached, you may
 need to install the latest version but not the apt version.
 
 ```bash
