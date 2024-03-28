@@ -542,7 +542,7 @@ times. Set up with:
 On GNU/Linux:
 
 Tips:  `mold` can speed up the link process, which can't be cached, you may
-need install the latest version but not the apt version.
+need to install the latest version but not the apt version.
 
 ```bash
 sudo apt install ccache mold   # for Debian/Ubuntu, included in most Linux distros
