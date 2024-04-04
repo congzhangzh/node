@@ -559,7 +559,7 @@ Refs:
 On macOS:
 
 ```bash
-brew install ccache mold       # see https://brew.sh
+brew install ccache            # see https://brew.sh
 export CC="ccache cc"          # add to ~/.zshrc or other shell config file
 export CXX="ccache c++"        # add to ~/.zshrc or other shell config file
 ```
